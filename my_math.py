@@ -1,5 +1,5 @@
 def my_add(a, b):
-    return a + 2*b
+    return a + b
 
 def my_mult(a, b):
-    return a*b*2
+    return a*b
